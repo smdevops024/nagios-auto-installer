@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo apt update && sudo apt upgrade -y
 
 # Nagios Core Auto Installer Script
 # Tested on Ubuntu-based systems
