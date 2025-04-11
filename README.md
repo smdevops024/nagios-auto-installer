@@ -21,27 +21,11 @@ This script provides an **automated setup** of Nagios Core along with necessary 
 ---
 
 ## 🚀 How to Use
-
-1. **Transfer script to your server**
-
-   ```bash
-   scp install_nagios.sh user@your_server_ip:/tmp
-   ```
-
-2. **Login to the server**
-
-   ```bash
-   ssh user@your_server_ip
-   ```
-
-3. **Run the script**
-
-   ```bash
-   chmod +x /tmp/install_nagios.sh
-   sudo /tmp/install_nagios.sh
-   ```
-
----
+```bash
+git clone https://github.com/smdevops024/nagios-auto-installer.git
+cd nagios-auto-installer
+chmod +x nagios_install.sh
+sudo ./nagios_install.sh
 
 ## 🌐 Access Nagios Web UI
 
