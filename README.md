@@ -1,3 +1,7 @@
+🧠 What is Nagios?
+Nagios is a powerful open-source monitoring system designed to keep an eye on your entire IT infrastructure. It watches over systems, networks, applications, and services — and alerts you when something goes wrong.
+
+It's lightweight, modular, and widely used in both enterprise and small-scale environments.
 # 🔧 Nagios Auto Installer Script
 
 This script provides an **automated setup** of Nagios Core along with necessary plugins and monitoring configuration on a Debian/Ubuntu-based system.
